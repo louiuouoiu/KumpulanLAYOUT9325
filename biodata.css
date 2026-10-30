@@ -1,7 +1,7 @@
 e/*main idea: instead of a border and image, make polaroid -->*/
 
 body{
-    background-image: url('windowsxp.jpg');
+    background-image: url(windowsxp.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
