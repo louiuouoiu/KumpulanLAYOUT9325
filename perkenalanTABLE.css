@@ -29,8 +29,8 @@ th, td{
 }
 
 @font-face{
-    font-family: minecraft;
-    src: url(minecraftFONT/Minecraft.ttf);
+    font-family: 'minecraft';
+    src: url('Minecraft.ttf');
 }
 
 
