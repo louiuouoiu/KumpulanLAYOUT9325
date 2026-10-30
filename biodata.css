@@ -63,12 +63,12 @@ p{
 } */
 
 @font-face {
-    font-family: dimitri;
+    font-family: 'dimitri';
     src: url("DIMITRI_.TTF");
 }
 
 @font-face {
-    font-family: minecraft;
+    font-family: 'minecraft';
     src: url("Minecraft.ttf");
 }
 
