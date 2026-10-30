@@ -17,19 +17,19 @@ table, th, td{
 }   
 
 h1{
-    font-family: minecraft;
+    font-family: 'minecraft';
     /* background-color: blanchedalmond; */
 
     padding-top: 40px;
 }
 
 th, td{
-    font-family: minecraft;
+    font-family: 'minecraft';
     font-style: none;   
 }
 
 @font-face{
-    font-family: 'minecraft';
+    font-family: ''minecraft'';
     src: url('Minecraft.ttf');
 }
 
