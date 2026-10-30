@@ -1,4 +1,4 @@
-/*main idea: instead of a border and image, make polaroid -->*/
+e/*main idea: instead of a border and image, make polaroid -->*/
 
 body{
     background-image: url("windowsxp.jpg");
@@ -64,12 +64,12 @@ p{
 
 @font-face {
     font-family: dimitri;
-    src: url("dimitriFONT/DIMITRI_.TTF");
+    src: url("DIMITRI_.TTF");
 }
 
 @font-face {
     font-family: minecraft;
-    src: url("minecraftFONT/Minecraft.ttf");
+    src: url("Minecraft.ttf");
 }
 
 
